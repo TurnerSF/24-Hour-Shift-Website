@@ -26,7 +26,7 @@ function Nav() {
           </Link>
         </li>
         <li className="nav-item">
-          <Link to="/contact" className="nav-link text-dark">
+          <Link to="/contact" className="nav-link text-dark spaced-link">
             Contact Us
           </Link>
         </li>

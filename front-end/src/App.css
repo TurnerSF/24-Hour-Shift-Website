@@ -18,6 +18,14 @@ body {
   margin-right: 10px;
 }
 
+.card-font-title {
+  font-size: 30px;
+}
+
+.card-font-desciption {
+  font-size: 25px;
+}
+
 /* Link color when hovered over */
 ul.nav li.nav-item a.nav-link.text-dark:hover {
   color: #3333FF !important;
