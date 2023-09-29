@@ -38,6 +38,7 @@ function App() {
       <Routes>
         <Route path="/" element={<h1>Hello, from my router</h1>} />
         <Route path="/shopping" element={<Inventory />}/>
+        
       </Routes>
     </div>
   );
